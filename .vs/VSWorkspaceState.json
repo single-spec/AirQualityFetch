@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\weather",
+    "\\weather\\lookup",
+    "\\weather\\lookup\\templates"
+  ],
+  "SelectedNode": "\\weather\\lookup\\urls.py",
+  "PreviewInSolutionExplorer": false
+}
